@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ismael-devtr&label=Profile%20views&color=0e75b6&style=flat" alt="ismael-devtr" /> </p>
 
-- 🔭 I’m currently working on **Godaddy Inc**
-
-- 🌱 I’m currently learning **Java**
+- 🔭 I’m currently working on learn and practice my skills
 
 - 👯 I’m looking to collaborate on **Open source project**
 
