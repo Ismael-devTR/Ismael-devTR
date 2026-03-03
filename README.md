@@ -1,15 +1,32 @@
-<h1>Hey there!👋</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ismael-devtr&label=Profile%20views&color=0e75b6&style=flat" alt="ismael-devtr" /> </p>
+```bash
+$ whoami
+> Ismael Tristan Romero — Full Stack JS Developer · Frontend Specialist
 
-- 🔭 I’m currently working on learn and practice my skills
+$ cat skills.json
+{
+  "core":    ["React", "Next.js", "TypeScript", "Node.js", "Express"],
+  "ui":      ["Tailwind CSS", "MUI", "Storybook", "React Native", "Electron"],
+  "testing": ["Cypress", "Jest", "Postman"],
+  "devops":  ["Docker", "AWS", "GitHub Actions", "CI/CD", "Nginx", "Linux"],
+  "db":      ["MariaDB", "MySQL", "MongoDB", "DynamoDB"]
+}
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ismael-tristan-7ab34920a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ismael-tristan-7ab34920a/" height="30" width="40" /></a>
-</p>
+$ git log --oneline
+a1b2c3d  feat: cut page load time 8s → 1s (memoization + lazy loading)
+d4e5f6a  perf: optimized API response 10s → 102ms (~99% faster)
+g7h8i9b  score: Lighthouse 70 → 98% (Perf, A11y, SEO, Best Practices)
+j1k2l3m  build: 100k+ users platform — national education system MX
+n4o5p6q  deploy: monitoring tools for FEMSA & Alcea Group
+r7s8t9u  mobile: React Native apps for Cotemar & Saeko
+v1w2x3y  oss: contributed to Universal-G-Code-Sender
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a><a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> </p>
+$ cat contact.txt
+portfolio:  https://blog.itr-dev.com
+github:     https://github.com/Ismael-devTR
+linkedin:   https://linkedin.com/in/ismael-tristan-7ab34920a
+email:      dev.tristan.romero@gmail.com
+location:   Pachuca, MX · Remote & open to relocation
 
-
-
+$ status
+> Open to mid-level opportunities · Bilingual ES/EN
+```
